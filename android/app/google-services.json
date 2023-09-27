@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609205310473",
+    "project_id": "mobeasytask",
+    "storage_bucket": "mobeasytask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609205310473:android:8ad80c809df1b3194714d8",
+        "android_client_info": {
+          "package_name": "com.komai.mobeasytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzShm0pPaiQ3FXHKKPfmQsD1VpRKNaxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
